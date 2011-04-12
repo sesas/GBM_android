@@ -10,5 +10,5 @@
     android:text="@string/hello"
     android:textSize="20sp"
     />
-<Button android:text="@string/mainSendText" android:id="@+id/button1" android:layout_height="wrap_content" android:layout_width="match_parent"></Button>
+<Button android:text="@string/mainSendText" android:id="@+id/sendMessage" android:layout_height="wrap_content" android:layout_width="match_parent"></Button>
 </LinearLayout>

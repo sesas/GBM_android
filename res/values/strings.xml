@@ -3,4 +3,7 @@
     <string name="hello">Main Menu</string>
     <string name="app_name">LocoMoTO</string>
     <string name="mainSendText">Send Place-it</string>
+    <string name="sendPhone">Phone Number</string>
+    <string name="sendMess">Enter a message to send</string>
+    <string name="sendButton">Send Message</string>
 </resources>
