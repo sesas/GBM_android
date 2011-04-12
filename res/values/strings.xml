@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Main Menu</string>
+    <string name="app_name">LocoMoTO</string>
+    <string name="mainSendText">Send Place-it</string>
+</resources>
